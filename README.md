@@ -10,6 +10,31 @@
 觀看影片一
 <a href="https://www.youtube.com/watch?v=iljWDh-wdZM" target="_blank">臺南智慧停車計時收費系統 智慧停車新典範</a>
 <br>
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I](https://youtu.be/iljWDh-wdZM)" target="_blank"><img src="http://https://www.google.com/search?sca_esv=1e257eb325ebfd70&q=acer+%E8%B7%AF%E9%82%8A%E5%81%9C%E8%BB%8A&udm=7&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9YNXXoqT4M1zPLW-rz66fPQVZDjHjpUFfYhD2gtP6NOm0q6mU1y0_9dxOtdh5iicLjKp25HEW8L6pSKjoIrdT4gE44qxzdVUraM3tvfK2mOja5Z6C_gEd52hoTdRdOJfqgX3uAc14mMOVySSDmtRkek82EYATgEinlCZcBhxyapZgf7sm&sa=X&ved=2ahUKEwi03ZPn46yMAxWEb_UHHQ0wPPoQtKgLegQIDRAB&biw=1920&bih=953&dpr=1#" 
-alt="臺南智慧停車計時收費系統 智慧停車新典範" width="400" height="250" border="10" /></a>
+<a href="
 <br>影片取自 youtube
+## 台北智慧城市展
+
+</summary>
+(一)、 展出日期：2024年3月19日（二）至3月22日（五），共4天<br>
+(二)、 展出地點：台北南港展覽館2館（台北市南港區經貿二路2號）<br>
+(三)、 參展區域：<br>
+  
+|物聯網應用(5G AIoT)	| 智慧交通 | 智慧治理 | 智慧建築 |
+|-------------------|---------|----------|---------|
+|智慧安防 | 智慧醫療 | 智慧教育 |  智慧金融 |
+|智慧能源 | 新創	   | AI+專區  |-----------|	
+
+(四)、 參展解決方案<br>
+物聯網應用<br>
+|智慧交通：| 自動駕駛、智慧公車、智慧車隊、智慧航運、智慧停車、智慧載具、智慧運輸、智慧物流、智慧倉儲|
+|---------|---------------------------------------------------------------------------------|
+|智慧治理：| 智慧政府、智慧港務、智慧稅務、智慧警政|
+|智慧建築：| 智慧物業、智慧社區、智慧門禁、智慧家庭、智慧園區、智慧辦公室、智慧溫室、智慧農漁業|
+|智慧安防：| 智慧杆、智慧路燈、智慧水務、智慧水質監測、智慧觀光、智慧安防、智慧防救災、智慧感測|
+|智慧醫療：| 健康促進、智慧穿戴、智慧照護、智慧醫院、遠距照護、遠距醫療、智慧防疫|
+|智慧教育：| 智慧校園、智慧教室、遠距教學|
+|智慧金融：| 智慧支付、智慧零售、無人商店|
+|智慧能源：| 智慧能源、智慧創能、智慧節能、智慧儲能、智慧電網、智慧電表|
+|AI+專區  ||
+|其他     ||
+</details>
