@@ -8,8 +8,8 @@
 
 <img src="IMG_0084.png" width="300" Height="300" />
 觀看影片一
-<a href="https://www.youtube.com/watch?v=Di42x7_0z_I" target="_blank">日本5G宣傳概念影片</a>
+<a href="https://www.youtube.com/watch?v=iljWDh-wdZM" target="_blank">臺南智慧停車計時收費系統 智慧停車新典範</a>
 <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
-alt="日本5G宣傳概念影片" width="400" height="250" border="10" /></a>
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I](https://youtu.be/iljWDh-wdZM)" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
+alt="臺南智慧停車計時收費系統 智慧停車新典範" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
