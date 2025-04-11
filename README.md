@@ -31,3 +31,13 @@
 <img src="http://img.youtube.com/vi/IXB9Af-KF6I/0.jpg" alt="臺南智慧停車計時收費系統 智慧停車新典範" width="400" height="250" border="10" /></a>
 <br>大概就是一些汽車介紹影片，然後上面是我最喜歡的一台車。
 </details>
+
+
+<details>
+<summary>
+
+# 日常生活
+</summary>
+基本上都是在室內活動，打英雄聯盟、聽歌，不然就是開車亂跑。
+
+</details>
