@@ -25,9 +25,9 @@
 <details>
 <summary>
 
-# Youtube 影片
+# 平常喜歡看的影片類型
 </summary>
-<a href="https://www.youtube.com/watch?v=iljWDh-wdZM" target="_blank">
-<img src="http://img.youtube.com/vi/iljWDh-wdZM/0.jpg" alt="臺南智慧停車計時收費系統 智慧停車新典範" width="400" height="250" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=IXB9Af-KF6I">
+<img src="http://img.youtube.com/vi/IXB9Af-KF6I/0.jpg" alt="臺南智慧停車計時收費系統 智慧停車新典範" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 </details>
