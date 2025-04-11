@@ -29,5 +29,5 @@
 </summary>
 <a href="https://www.youtube.com/watch?v=IXB9Af-KF6I">
 <img src="http://img.youtube.com/vi/IXB9Af-KF6I/0.jpg" alt="臺南智慧停車計時收費系統 智慧停車新典範" width="400" height="250" border="10" /></a>
-<br>影片取自 youtube
+<br>大概就是一些汽車介紹影片，然後上面是我最喜歡的一台車。
 </details>
